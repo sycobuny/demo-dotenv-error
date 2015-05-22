@@ -1,5 +1,5 @@
-Vim-Dotenv-Error-Demo
-=====================
+Demo-Dotenv-Error
+=================
 
 A short example demo application which I figure should show something I
 *expect* to work, but which does not. It is meant to supplement a GitHub issue
