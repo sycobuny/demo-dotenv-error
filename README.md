@@ -27,6 +27,9 @@ If I am editing the `Procfile` and run `:Dispatch`, it attempts to run a bare
 Environment
 ===========
 
+ * I am on Mac OS 10.10.3.
+ * I am using Tmux 2.0_0 from MacPorts, and Vim "7.4.258_1+huge+perl+ruby19"
+   (also from MacPorts).
  * I am using my RC files from my GitHub repository at revision 2bdb848:
    https://github.com/sycobuny/rc://github.com/sycobuny/rcfiles/commit/2bdb8480c83174f683eb1deeadbd85a2b23c16c3
  * I am using rbenv and ruby-build at revisions 5b9e4f0 and a5d0479,
